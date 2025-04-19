@@ -3,7 +3,7 @@ package com.stepdefinition;
 import io.cucumber.java.en.*;
 
 public class LoginPage1 {
-
+   //sample test
 @Given("Lauch the URL")
 public void lauch_the_url() {
     System.out.println("Launching URL");
